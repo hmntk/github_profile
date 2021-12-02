@@ -3,7 +3,7 @@
   </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hemanth Kumar Kona</h1>
-<h3 align="center"> I am an Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production ready code using ReactJS and CSS on the frontend, NodeJS, Express and MongoDB on the backend to build single page applications. Passionate about coding and strongly interested in working as a web developer.</h3>
+<h3 align="center"> I am an Analytical & detail-oriented aspiring Full Stack Web Developer. Capable of writing production ready code using ReactJS and CSS on the frontend, NodeJS, Express and MongoDB on the backend to build single page applications. Passionate about coding and strongly interested in working as a web developer.</h3>
 
 
 
