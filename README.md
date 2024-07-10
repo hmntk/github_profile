@@ -27,7 +27,7 @@
 
 <br/>
 
-## You can find in me in the web 🌍
+## You can find in me on the web 🌍
 
 <p align="left">
 
