@@ -12,7 +12,7 @@
 
 🤝 I’m looking for help with OpenSource Contributions.
 
-📫 You can reach me at [chat](https://www.linkedin.com/in/hemanthkona/) 
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hemanthkona/) 
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmntk&" alt="hmntk" />
